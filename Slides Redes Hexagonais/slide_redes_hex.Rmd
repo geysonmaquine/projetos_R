@@ -1,0 +1,50 @@
+---
+title: "Transporte Quântico em Redes Hexagonais<br>     "
+subtitle: "  s "
+author: "Geyson Maquiné Batalha"
+institute: "UNIVERSIDADE "
+date: " "
+encoding: "UTF-8"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    css: [default,default-fonts,estilo.css]
+    nature:
+      ratio: 16:9
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+      slideNumberFormat: "%current%"
+    seal: false
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+```{r xaringanExtra, echo=FALSE}
+xaringanExtra::use_xaringan_extra(c("tile_view", "animate_css", "tachyons"))
+```
+
+
+class: title-slide, center, div
+
+
+.font120[Universidade Federal do Amazonas<br>
+Pró-Reitoria de Pesquisa e Pós-Graduação<br>
+Programa de Pós-Graduação em Física]
+
+# <br><br>.titulo[Transporte Quântico em Redes Hexagonais]<br>
+
+.font120[Geyson Maquiné Batalha<br>
+
+Orientador: Dr. Mircea Daniel Galicenau<br><br>]
+
+
+```{r,out.width='25%',fig.align='center',echo=FALSE}
+knitr::include_graphics('cnpq_capes.svg')
+```
+---
+class: justificado
+# Teste de cada um 
+
+A medida que cada um entendo como faz o modelo, ninguém terá dificulade de fazer slides xmkzmxkzmx\k
+$$\int \sum x dx$$
