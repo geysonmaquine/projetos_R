@@ -1,6 +1,6 @@
 FROM gitpod/workspace-full
 
-USER root
+USER gitpod
 
 RUN brew install R
 
