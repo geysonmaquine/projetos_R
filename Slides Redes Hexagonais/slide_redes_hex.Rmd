@@ -7,6 +7,7 @@ date: " "
 encoding: "UTF-8"
 output:
   xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js 
     lib_dir: libs
     css: [default,default-fonts,estilo.css]
     nature:
@@ -44,7 +45,13 @@ knitr::include_graphics('cnpq_capes.svg')
 ```
 ---
 class: justificado
-# Teste de cada um 
+# Teste de cada um dsds ainda sim temos que entender como vamos fazer
 
 A medida que cada um entendo como faz o modelo, ninguém terá dificulade de fazer slides xmkzmxkzmx\k
 $$\int \sum x dx$$
+
+---
+# Terceiro slidejjjjjjllllkkk
+
+## item 
+Olá mundo 
