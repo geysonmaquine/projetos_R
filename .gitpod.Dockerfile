@@ -8,7 +8,5 @@ RUN sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu fo
 RUN sudo apt install r-base -y 
 RUN sudo apt install build-essential -y
 RUN sudo apt install pandoc -y
-RUN sudo apt-get install gdebi-core -y 
-RUN wget https://download2.rstudio.org/server/bionic/amd64/rstudio-server-2022.07.1-554-amd64.deb
-RUN sudo gdebi rstudio-server-2022.07.1-554-amd64.deb -y 
+
 
