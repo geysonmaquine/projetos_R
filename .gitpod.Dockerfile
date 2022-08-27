@@ -8,6 +8,5 @@ RUN sudo add-apt-repository 'deb https://cloud.r-project.org/bin/linux/ubuntu fo
 RUN sudo apt install r-base -y 
 RUN sudo apt install build-essential -y
 RUN sudo apt install pandoc -y
-RUN sudo Rscript Biblioteca.R
 
 
