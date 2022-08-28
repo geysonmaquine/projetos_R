@@ -5,7 +5,7 @@ LABEL org.label-schema.license="GPL-2.0" \
       maintainer="Dirk Eddelbuettel <edd@debian.org>"
 
 RUN sudo apt-get update \
-	&& sudo apt-get install -y --no-install-recommends \
+	&& sudo apt-get install -y \
                 ghostscript \
                 lmodern \
                 pandoc-citeproc \
@@ -14,7 +14,7 @@ RUN sudo apt-get update \
                 r-cran-formatr \
                 r-cran-ggplot2 \
                 r-cran-knitr \
-		            r-cran-rmarkdown \
+		r-cran-rmarkdown \
                 r-cran-xaringan \
                 r-cran-xaringanExtra \
                 r-cran-runit \
