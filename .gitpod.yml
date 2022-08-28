@@ -1,7 +1,6 @@
 image: 
     file: .gitpod.Dockerfile
-tasks:
-  - command: sudo Rscript Biblioteca.R
+
 
 
 
