@@ -4,8 +4,8 @@ LABEL org.label-schema.license="GPL-2.0" \
       org.label-schema.vcs-url="https://github.com/rocker-org/rocker" \
       maintainer="Dirk Eddelbuettel <edd@debian.org>"
 
-RUN sudo apt-get update \
-	&& sudo apt-get install -y \
+RUN apt-get update \
+	&& apt-get install -y \
                 ghostscript \
                 lmodern \
                 pandoc-citeproc \
